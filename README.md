@@ -83,3 +83,7 @@ Requires a modern browser with support for:
 - Local file caching
 - Improved mobile experience
 - Enhanced file preview capabilities
+
+
+Credit:
+https://github.com/DisboxApp (where i get the idea)
